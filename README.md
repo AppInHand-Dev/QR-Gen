@@ -47,6 +47,6 @@ QR-Gen is an open source, easy-to-extend QR code generator written in Python. It
 
 ---
 
-### License
+### 📜 License
 
 This project is released as open source.
